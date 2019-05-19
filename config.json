@@ -1,0 +1,19 @@
+{
+  
+"prefix": "F!",
+"role": "Z DEV",
+"volume": "40",
+"token": "NTc1OTQ2NTg1MTg0NDAzNDY3.XOD0YA.qtiS9JGs2RlrWCjGf9pv0zYgZu8",
+"googletoken": "AIzaSyBJGtSHzLugsYR1HkJpP-jAHMHMk9ekIpQ",
+"owner": "402367348364935169",
+"embed_color": "RED",
+"purple": "#d604cf",
+"servers": [
+		"481801006209040385",
+		"507826013602971652"
+	],
+"roleName": "rainbow",
+	"colors": 20,
+	"speed": 60000,
+	"logging": true
+}
